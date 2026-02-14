@@ -10,8 +10,6 @@
 
 <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ShiWarai&layout=compact&hide_border=true" alt="Top Langs" width="400" />
 
----
-
 ## О себе
 
 Занимаюсь разработкой робототехнических систем (от проектирования до программирования) и прикладного программного обеспечения (backend, embedded). Веду репозиторий ещё со школы, где и учился своим первым языкам программирования (C++, Python, C#, Lua). Идеологически люблю открытый исходный код, поэтому большую часть своих разработок публикую, хотя некоторые внутренние проекты приходится согласовывать перед публикацией.
@@ -25,7 +23,7 @@
 | Бакалавриат | Программная инженерия (09.03.04) | [РТУ МИРЭА](https://www.mirea.ru/) | Красный диплом |
 | Магистратура | Программная инженерия (09.04.04) | [РТУ МИРЭА](https://www.mirea.ru/) | Учусь |
 | Доп. образование | DevOps-инженер, Менеджмент | [РТУ МИРЭА](https://www.mirea.ru/) | Пройдено |
-| Доп. образование | [IT Академия Samsung](https://www.innovationcampus.ru/) (трек IoT) | Samsung Innovation Campus | Пройдено; 4-е место в финале конкурса работ |
+| Доп. образование | IT Академия Samsung (трек IoT) | [Samsung Innovation Campus](https://www.innovationcampus.ru/) | Пройдено; 4-е место в финале конкурса работ |
 
 ## Языки 🌍
 
@@ -49,7 +47,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Фреймворки и платформы**
 
