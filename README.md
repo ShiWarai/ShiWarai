@@ -6,28 +6,44 @@
 
 <img src="https://readme-stats-github.pages.dev/api?username=ShiWarai&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400" />
 
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=ShiWarai&layout=compact&hide_border=true" alt="Top Langs" width="350" />
+<img src="https://streak-stats.demolab.com/?user=ShiWarai&theme=github-dark&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiWarai" alt="Streak" />
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=ShiWarai&layout=compact&hide_border=true" alt="Top Langs" width="400" />
 
 ---
 
 ## О себе
 
-[Род деятельности]: робототехнические системы (проектирование, изготовление, программирование), проектирование и разработка ПО.  
-[Интересы]: интернет-культура, автоматизация рутины.  
-[Текущий фокус]: готовлю к публикации милую робо-панду.
+Занимаюсь разработкой робототехнических систем (от проектирования до программирования) и прикладного программного обеспечения (backend, embedded). Веду репозиторий ещё со школы, где и учился своим первым языкам программирования (C++, Python, C#, Lua). Идеологически люблю открытый исходный код, поэтому большую часть своих разработок публикую, хотя некоторые внутренние проекты приходится согласовывать перед публикацией.
 
----
+Ещё люблю Hatsune Miku ❤️
 
-## Навыки / технологии
+## Образование 🎓
+
+| Ступень | Направление / программа | Вуз / организация | Статус |
+|--------|--------------------------|-------------------|--------|
+| Бакалавриат | Программная инженерия (09.03.04) | [РТУ МИРЭА](https://www.mirea.ru/) | Красный диплом |
+| Магистратура | Программная инженерия (09.04.04) | [РТУ МИРЭА](https://www.mirea.ru/) | Учусь |
+| Доп. образование | DevOps-инженер, Менеджмент | [РТУ МИРЭА](https://www.mirea.ru/) | Пройдено |
+| Доп. образование | [IT Академия Samsung](https://www.innovationcampus.ru/) (трек IoT) | Samsung Innovation Campus | Пройдено; 4-е место в финале конкурса работ |
+
+## Языки 🌍
+
+| Язык | Уровень |
+|------|---------|
+| 🇷🇺 Русский | Родной |
+| 🇬🇧 English | B1 |
+
+## Навыки и технологии
 
 **Основные языки**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Частично освоены**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,16 +52,18 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Фреймворки и платформы**
+
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-009FE3?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-228B22?style=flat-square)
 ![TouchGFX](https://img.shields.io/badge/TouchGFX-002050?style=flat-square)
 
 **Инструменты**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -58,30 +76,21 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 **Инструменты эффективности**
+
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=flat-square&logo=openproject&logoColor=white)
 
----
 
-## Знаковые проекты
+## Знаковые для меня проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [RDB-1-controller](https://github.com/ShiWarai/RDB-1-controller) | Controller firmware for RDB-1 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [smart-dormitory](https://github.com/ShiWarai/smart-dormitory) | Общий репозиторий для всей программной реализации проекта | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
-| [microros-turtle](https://github.com/ShiWarai/microros-turtle) | Дешёвая робот-черепаха, работающая через microROS | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| [CVC](https://github.com/ShiWarai/CVC) | Классификатор голосовых (расшифрованных в текст) команд для робота на основе трансформеров | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [microros-turtle](https://github.com/ShiWarai/microros-turtle) | Дешёвый робот-черепаха, работающий через microROS | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [CVC](https://github.com/ShiWarai/CVC) | Классификатор голосовых команд для робота (речь в текст) на основе трансформеров | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [neural-network](https://github.com/ShiWarai/neural-network) | Нейронная сеть на C++ для распознавания чисел с использованием процедурного программирования, без сторонних библиотек | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
----
-
-## Языки 🌍
-
-| Язык | Уровень |
-|------|---------|
-| 🇷🇺 Русский | Родной |
-| 🇬🇧 English | B1 |
-
----
 
 ## Контакты
 
@@ -89,4 +98,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@shiwarai-26A5E4?style=flat-square&logo=telegram)](https://t.me/shiwarai)
 [![Email](https://img.shields.io/badge/Email-zhuravliov.pav%40yandex.ru-EA4335?style=flat-square&logo=gmail)](mailto:zhuravliov.pav@yandex.ru)
 
----
