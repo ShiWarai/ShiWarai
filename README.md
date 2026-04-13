@@ -2,6 +2,10 @@
 
 Я программный инженер из РТУ МИРЭА, где работаю в [RTUITLAB](https://rtuitlab.dev) и учусь на магистратуре.
 
+<!--
+Временно отключено: внешние карточки статистики нестабильны (лимиты API, PAT на Vercel и т.д.).
+Раскомментируйте блок ниже, когда настроите свой деплой github-readme-stats или надёжное зеркало.
+
 ## GitHub статистика
 
 <table>
@@ -10,6 +14,8 @@
     <td><img src="https://streak-stats.demolab.com/?user=ShiWarai&theme=github-dark&hide_border=true" alt="Streak" /></td>
   </tr>
 </table>
+
+-->
 
 ## О себе
 
