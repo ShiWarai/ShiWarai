@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td><img src="https://readme-stats-github.pages.dev/api?username=ShiWarai&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400" /></td>
+    <td><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=ShiWarai&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=ShiWarai&theme=github-dark&hide_border=true" alt="Streak" /></td>
   </tr>
 </table>
