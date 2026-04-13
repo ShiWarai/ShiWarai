@@ -4,9 +4,10 @@
 
 ## GitHub статистика
 
+<!-- Карточка GitHub Stats временно убрана: нестабильные зеркала / нужен PAT на своём деплое. -->
+
 <table>
   <tr>
-    <td><img src="https://readme-stats-github.pages.dev/api?username=ShiWarai&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=ShiWarai&theme=github-dark&hide_border=true" alt="Streak" /></td>
   </tr>
 </table>
@@ -97,4 +98,3 @@
 [![Website](https://img.shields.io/badge/Website-ridramecraft.ru-4285F4?style=flat-square&logo=googlechrome)](https://ridramecraft.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-@shiwarai-26A5E4?style=flat-square&logo=telegram)](https://t.me/shiwarai)
 [![Email](https://img.shields.io/badge/Email-zhuravliov.pav%40yandex.ru-EA4335?style=flat-square&logo=gmail)](mailto:zhuravliov.pav@yandex.ru)
-
