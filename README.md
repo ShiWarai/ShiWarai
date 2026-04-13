@@ -85,6 +85,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
+| [RDS-2P](https://github.com/ShiWarai/RDS-2P) | Дешёвая, но функциональная и производительная робособака в стиле панды для учебных целей | ![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)|
 | [RDB-1-controller](https://github.com/ShiWarai/RDB-1-controller) | Прошивка к контроллеру робота RDB-1 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [smart-dormitory](https://github.com/ShiWarai/smart-dormitory) | Общий репозиторий для всей программной реализации проекта | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
 | [microros-turtle](https://github.com/ShiWarai/microros-turtle) | Дешёвый робот-черепаха, управляемые через microROS по WiFi | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
