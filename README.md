@@ -72,9 +72,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-00979D?style=flat-square&logo=platformio&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32_CubeIDE-03234B?style=flat-square)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-CC0000?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+**CAD и CAM**
+
+![EasyEDA](https://img.shields.io/badge/EasyEDA-CC0000?style=flat-square)
+![TFlex CAD](https://img.shields.io/badge/TFlex_CAD-1F4A8A?style=flat-square)
+![Anycubic Photon Workshop](https://img.shields.io/badge/Anycubic_Photon_Workshop-0B5CAD?style=flat-square)
+![Creality Print](https://img.shields.io/badge/Creality_Print-1E90FF?style=flat-square)
 
 **Инструменты эффективности**
 

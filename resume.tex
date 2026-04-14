@@ -1,0 +1,185 @@
+%-------------------------
+% Resume in Latex
+% Author : Shi Warai
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\certification}[3]{
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\small#1}{\small#2} & \small#3 \\
+    \end{tabular*}\vspace{-10pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Pavel Zhuravlev} \\ \vspace{1pt}
+    \small +7-977-620-97-26 $|$ \href{mailto:zhuravliov.pav@yandex.ru}{\underline{zhuravliov.pav@yandex.ru}} $|$ 
+    \href{https://t.me/shiwarai}{\underline{t.me/shiwarai}} $|$
+    \href{https://github.com/ShiWarai}{\underline{github.com/ShiWarai}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {MIREA - Russian Technological University}{Moscow, Russia}
+      {Master of Software Engineering (in progress)}{Sep. 2024 -- June 2026}
+    \resumeSubheading
+      {MIREA - Russian Technological University}{Moscow, Russia}
+      {Bachelor of Software Engineering, GPA: 4.97 (out of 5.0)}{Sep. 2020 -- June 2024}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Programmer}{Sep. 2024 -- Present}
+      {RTU MIREA, RTUITLab}{Moscow, Russia}
+      \resumeItemListStart
+        \resumeItem{Developing the open-source RDS-2P quadruped robot for education and DIY assembly, with voice and Telegram-bot control}
+        \resumeItem{Led firmware development for programmable battery packs on FreeRTOS for the RDS-2A quadruped robot}
+        \resumeItem{Developed an open-source micro-ROS wheeled robot for the ROS Meetup 2025 hackathon and co-organized the event}
+        \resumeItem{Led a robotics club focused on building the Tinker biped robot with SberRobotics funding at RTU MIREA}
+        \resumeItem{Built AI modules for RDS-2P: Vosk-based speech recognition and on-device text/speech generation on Rockchip RK3588 to answer university-related questions}
+        \resumeItem{Trained the RDS-2P robot to walk using PPO in MuJoCo and transferred the policy to physical hardware}
+        \resumeItem{Migrated the full RDS-2P sensor stack to ROS 2 Humble}
+        \resumeItem{Implemented a Sber Portal voice-assistant skill for controlling the RDS-2P robot}
+        \resumeItem{Built a SetFit-based intent classifier for the voice-assistant skill}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Computer Operator}{Apr. 2022 -- Aug. 2024}
+      {RTU MIREA, RTUITLab}{Moscow, Russia}
+      \resumeItemListStart
+        \resumeItem{Developed autonomous navigation for the Unitree A1 quadruped using a Slamtec LiDAR SDK and DWA for the Army-2022 exhibition}
+        \resumeItem{Developed the Smart Dormitory information system for the Samsung Academy finals, including embedded, mobile, and web apps, plus backend and database components}
+        \resumeItem{Developed motor-control firmware for the large-scale RDB-1 quadruped using FreeRTOS and PlatformIO, and added a BLE control interface with a companion web app}
+        \resumeItem{Assembled and manufactured RDS-1 robot dogs for student and school workshops}
+        \resumeItem{Implemented telepresence control for the Unitree A1 robot over a 4G cellular network}
+        \resumeItem{Designed and prototyped a CI system for TFlex CAD}
+        \resumeItem{Delivered additional engineering tasks related to design and manufacturing for organizational orders}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C/C++, Python, Java, SQL, HTML/CSS/JS } \\
+     \textbf{Frameworks}{: ROS2, MicroROS, Mujoco, Flask, Spring, FastAPI, Vue.js } \\
+     \textbf{Testing}{: Pytest, Selenium} \\
+     \textbf{Storage}{: PostgreSQL, Redis, InfluxDB } \\
+     \textbf{DevOps}{: GitHub CI/CD, Docker } \\
+     \textbf{Embedded}{: FreeRTOS, RKLLM, RKNN, TouchGFX, Wokwi} \\
+     \textbf{Embedded tooling}{: PlatformIO, KeilStudio, CubeIDE} \\
+     \textbf{CAD \& CAM}{: TFlex CAD, EasyEDA, 3D Printing Slicers} \\
+     \textbf{Hands-on Electronics}{: Soldering, battery spot welding} \\
+    }}
+ \end{itemize}
+
+ \section{Soft Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Russian (Native Speaker), English (B1)} \\
+    }}
+ \end{itemize}
+
+ \section{Certification}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \certification{DevOps Engineer}{, MIREA Additional Education}{2023 -- 2024}
+    \certification{Management}{, MIREA Additional Education}{2024}
+    \certification{IT Academy Samsung (IoT Track)}{, Samsung Innovation Campus}{2021 -- 2022}
+    
+    
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
